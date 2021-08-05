@@ -1,0 +1,12 @@
+torch
+torchvision
+scikit-learn      
+numpy    
+torchsummary
+seaborn
+tqdm      
+pandas      
+matplotlib
+jupyter
+ipykernel
+plotly

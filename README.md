@@ -3,6 +3,8 @@ This demonstrates the task of classifying Chest X-Ray images as either Normal or
 
 # Note: 
 
+Download data (and move into project folder as specified in the DL_Prashant20200126-README.ipynb file): https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
 It contains the 2 (.pynb) files, 2 (.py) files, 4 model checkpoints (.pt), 1 requirements.txt file, 3 folders - figs, logs, model_checkpoints, 1 report paper (.pdf),.
 
 First, open the DL_Prashant20200126-README.ipynb file.

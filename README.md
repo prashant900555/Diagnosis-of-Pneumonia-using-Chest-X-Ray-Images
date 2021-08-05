@@ -12,3 +12,9 @@ There is nothing to be set or updated for the user to run my project, just place
 # Additional requirements:
 
     Please create a folder named "model_checkpoints" exactly in the main "Chest_X_Ray" folder, this is very important for saving the model_checkpoints
+
+<p align="center"> \\\\\\\\\\ THANK - YOU ////////// </p>
+
+          PROJECT CREATED BY - Prashant Wakchaure
+          Email ID - prashant900555@gmail.com
+          Contact No. - +373 892276183
